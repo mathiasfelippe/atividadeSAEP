@@ -1,0 +1,11 @@
+ATIVIDADE SAEP - CRUD PHP E MYSQL
+
+1. Importe eleitor.sql no MySQL.
+2. Se necessário, altere usuário e senha no config.php.
+3. Copie a pasta para htdocs no XAMPP ou para o diretório do seu servidor PHP.
+4. Inicie Apache e MySQL.
+5. Acesse http://localhost/Atividade_SAEP_site/
+
+Consulte RESUMO.md para as instruções completas e sugestões de prints para a documentação.
+
+Arquivos principais: index.php, eleitores.php, candidatos.php, config.php, style.css e eleitor.sql.
